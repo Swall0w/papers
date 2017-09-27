@@ -24,3 +24,10 @@
 * どうやって有効だと検証したか？
 * 議論はある？
 * 次に読むべき論文は？
+
+## 資料
+* https://www.slideshare.net/mitmul/chainer-79942361
+* http://qiita.com/icoxfog417/items/8689f943fd1225e24358
+* http://qiita.com/aiskoaskosd/items/59c49f2e2a6d76d62798#%E5%86%85%E9%83%A8%E5%85%B1%E5%A4%89%E9%87%8F%E3%82%B7%E3%83%95%E3%83%88internal-covariate-shift
+
+* http://studylog.hateblo.jp/entry/2016/12/05/125803
