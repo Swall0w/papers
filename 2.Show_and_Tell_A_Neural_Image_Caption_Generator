@@ -1,0 +1,27 @@
+# [Show and Tell: A Neural Image Caption Generator](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf)
+
+## どんなもの？
+画像からその画像の文章説明を自動生成する。
+
+## 先行研究と比べてどこがすごい？
+画像処理分野で成績を上げているCNNとRNNを用いて、高精度に生成。
+
+## 技術や手法の肝はどこ？
+* ３種の連結したニューラルネットワークで構成されているため、end-to-endの学習で学習可能
+* GoogLeNetにより、画像の特徴をよく捉えるCNNを用い、featureをRNN(LSTM)につなげる。
+* 単語(word)ごとに埋め込み、それらをLSTMに代入して学習。
+
+
+
+## どうやって有効だと検証したか？
+* 既存の評価方法(BLEU-1)で試し、SoTA
+* ５人の文章データセットで人同士を比較し、人の各指標を出した。そのデータと比較した結果、どれも人並みの精度になった。
+* しかし、生成された文章を人が見るとまだまだ違和感がある。
+
+## 議論はある？
+* そもそも量的評価指標がまだ上手くできていないことが分かる。
+* 類似傾向のデータセットでは、転移学習がうまくいくが、傾向が違う場合は精度がより下がることがわかる。
+* どのときに上手くいき、どのときに上手くいかないのかがまだよくわからない
+
+## 次に読むべき論文は？
+[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
