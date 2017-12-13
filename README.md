@@ -41,3 +41,5 @@
 * http://qiita.com/aiskoaskosd/items/59c49f2e2a6d76d62798#%E5%86%85%E9%83%A8%E5%85%B1%E5%A4%89%E9%87%8F%E3%82%B7%E3%83%95%E3%83%88internal-covariate-shift
 
 * http://studylog.hateblo.jp/entry/2016/12/05/125803
+* [A Year in Computer Vision](http://www.themtank.org/a-year-in-computer-vision)
+* [Optimization for Deep Learning Highlights in 2017](http://ruder.io/deep-learning-optimization-2017/?utm_content=bufferf32c6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
