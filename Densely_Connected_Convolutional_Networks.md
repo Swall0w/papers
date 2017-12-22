@@ -9,6 +9,8 @@ Gao Huang, Zhuang Liu, Laurens van der Maaten
 ## 先行研究と比べてどこがすごい？
 ネットワーク内の情報を保存し，後段のネットワークが情報を取り扱いやすいようにするdense blockの提案．
 認識精度でSoTA
+![img](./img/15.1.png)
+![img](./img/15.2.png)
 
 
 ## 技術や手法の肝はどこ？
@@ -17,9 +19,16 @@ Gao Huang, Zhuang Liu, Laurens van der Maaten
 
 ## どうやって有効だと検証したか？
 CIFAR10での実験で，エラー率の算出．
+![img](./img/15.3.png)
+![img](./img/15.4.png)
 
 ## 議論はある？
 * モデルに対して，パラメータ数が少ない
+![img](./img/15.5.png)
+![img](./img/15.6.png)
 
 ## 次に読む論文は？
-* Multiple object recognition with visual attention
+* Fractalnet: Ultra-deep neural networks without residuals
+* On the importance of initialization and momentum in deep learning
+* Rethinking the inception architecture for computer vision
+* Augmenting supervised neural netowrks with unsupervised objectives for large-scale image classification
