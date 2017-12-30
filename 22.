@@ -1,0 +1,31 @@
+# [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
+Phillip Isola, Jun-Yan Zhu ,Tinghui Zhou, Alexei A. Efros
+
+Berkeley AI Research (BAIR) Laboratory, UC Berkeley
+
+## どんなもの？
+ニューラルネットワークを用いた画像変換の手法の提案
+
+従来いろいろな手法がそれぞれのタスク（自動着色、セマンティックセグメンテーション、画像変換など）で提案されているが、
+一般的な手法としては提案されていなかった。
+
+今回GANにより、損失関数をハンドメイドで選ぶことなく、画像変換を行える手法を提案した。
+
+## 先行研究と比べてどこがすごい？
+* 画像変換について、GANによるデータに基づいた変換するための条件付きGANを提案。
+* L1正則化とGAN損失項の影響について述べた。（L1はもっともらしい抽象化されたような学習をすることを促進し、GANは画像そのものに近いような状態を学習する。）
+
+## 技術や手法の肝はどこ？
+* L1正則化項とcGANによる項の組み合わせ
+* cGANではGeneratorに乱数だけでなく、変換元となる画像も与えるようになっている。
+* PatchGANは、Discriminatorに画像を与える際に、画像すべてではなく、16x16や70x70といった小領域(=Patch)を切り出してから与えるようにする仕組み
+
+## どうやって有効だと検証したか？
+* FCN-8による定量評価
+* Amazon Mechanical Turkによる画像の定量評価
+
+## 議論はある？
+* AMTでは他の手法での定量評価もすべきでは？
+
+## 次に読むべき論文は？
+* Improved techniques for training gans
