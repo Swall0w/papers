@@ -43,7 +43,7 @@ Memos for papers, which are related to ML, CV and NLP.
 ## Robust Reading
 * [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://github.com/Swall0w/papers/blob/master/papers/000039.TextBoxes%2B%2B_A%20Single-Shot_Oriented_Scene_Text_Detector.md)
 * [Synthetic data generation for Indic handwritten text recognition](./papers/000044.Synthetic_data_generation_for_Indic_handwritten_text_recognition.md)
-* [Reading Scene Text with Attention Convolutional Sequence Modeling](./papers/000047. Reading_Scene_Text_with_Attention_Convolutional_Sequence_Modeling.md)
+* [Reading Scene Text with Attention Convolutional Sequence Modeling](https://github.com/Swall0w/papers/blob/master/papers/000047.%20Reading_Scene_Text_with_Attention_Convolutional_Sequence_Modeling.md)
 
 ## Visualization
 * [SmoothGrad: removing noise by adding noise](./papers/000012.SmoothGrad_removing_noise_by_adding_noise.md)
