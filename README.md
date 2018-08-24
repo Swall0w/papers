@@ -41,7 +41,7 @@ Memos for papers, which are related to ML, CV and NLP.
 * [Learning from Simulated and Unsupervised Images through Adversarial Training](./papers/000040.Learning_from_Simulated_and_Unsupervised_Images_through_Adversarial_Training.md)
 
 ## Robust Reading
-* ["TextBoxes++: A Single-Shot Oriented Scene Text Detector"](./papers/000039.TextBoxes++_A Single-Shot_Oriented_Scene_Text_Detector.md)
+* [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://github.com/Swall0w/papers/blob/master/papers/000039.TextBoxes%2B%2B_A%20Single-Shot_Oriented_Scene_Text_Detector.md)
 * [Synthetic data generation for Indic handwritten text recognition](./papers/000044.Synthetic_data_generation_for_Indic_handwritten_text_recognition.md)
 * [Reading Scene Text with Attention Convolutional Sequence Modeling](./papers/000047. Reading_Scene_Text_with_Attention_Convolutional_Sequence_Modeling.md)
 
@@ -59,7 +59,7 @@ Memos for papers, which are related to ML, CV and NLP.
 * [FlowNet: Learning Optical Flow with Convolutional Networks](./papers/000020.FlowNet_Learning_Optical_Flow_with_Convolutional_Networks.md)
 * [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](./papers/000028.FlowNet2.0_Evolution_of_Optical_Flow_Estimation_with_Deep_Networks.md)
 * [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](./papers/000031.Revisiting_Unreasonable_Effectiveness_of_Data_in_Deep_Learning_Era.md)
-* [Learning to Compose Domain-Specific Transformations for Data Augmentation](./papers/000037.Learning to_Compose_Domain-Specific_Transformations_for_Data_Augmentation.md)
+* [Learning to Compose Domain-Specific Transformations for Data Augmentation](https://github.com/Swall0w/papers/blob/master/papers/000037.Learning%20to_Compose_Domain-Specific_Transformations_for_Data_Augmentation.md)
 * [Spatial Transformer Networks](./papers/000043.Spatial_Transformer_Networks.md)
 
 # NLP
