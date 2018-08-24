@@ -41,7 +41,7 @@ Memos for papers, which are related to ML, CV and NLP.
 * [Learning from Simulated and Unsupervised Images through Adversarial Training](./papers/000040.Learning_from_Simulated_and_Unsupervised_Images_through_Adversarial_Training.md)
 
 ## Robust Reading
-* [TextBoxes++: A Single-Shot Oriented Scene Text Detector](./papers/000039.TextBoxes++_A Single-Shot_Oriented_Scene_Text_Detector.md)
+* ["TextBoxes++: A Single-Shot Oriented Scene Text Detector"](./papers/000039.TextBoxes++_A Single-Shot_Oriented_Scene_Text_Detector.md)
 * [Synthetic data generation for Indic handwritten text recognition](./papers/000044.Synthetic_data_generation_for_Indic_handwritten_text_recognition.md)
 * [Reading Scene Text with Attention Convolutional Sequence Modeling](./papers/000047. Reading_Scene_Text_with_Attention_Convolutional_Sequence_Modeling.md)
 
