@@ -21,6 +21,7 @@ Memos for papers, which are related to ML, CV and NLP.
 * [DetNet: A Backbone network for Object Detection](./papers/000046.DetNet_A_Backbone_network_for_Object_Detection.md)
 * [Light-Head R-CNN: In Defense of Two-Stage Object Detector](./papers/000048.Light-Head_R-CNN_In_Defense_of_Two-Stage_Object_Detector.md)
 * [Fully Convolutional Instance-aware Semantic Segmentation](./papers/000049.Fully_Convolutional_Instance-aware_Semantic_Segmentation.md)
+* [Mask R-CNN](./papers/000051.Mask_R-CNN.md)
 
 ## Semantic Segmentation
 * [Fully Convolutional Networks for Semantic Segmentation](./papers/000013.Fully_Convolutional_Networks_for_Semantic_Segmentation.md)
@@ -79,5 +80,6 @@ Memos for papers, which are related to ML, CV and NLP.
 * [Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex](./papers/000034.Bridging_the_Gaps_Between_Residual_Learning_Recurrent_Neural_Networks_and_Visual_Cortex.md)
 * [What’s your ML Test Score? A rubric for ML production systems](./papers/000042.Whats_your_ML_Test_Score?_A_rubric_for_ML_production_systems.md)
 * [Multimodal Emoji Prediction](./papers/000045.Multimodal_Emoji_Prediction.md)
+* [Born Again Neural Networks](./papers/000050.Born_Again_Neural_Networks.md)
 
 
