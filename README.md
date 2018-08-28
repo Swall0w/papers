@@ -52,6 +52,8 @@ Memos for papers, which are related to ML, CV and NLP.
 ## Video
 * [Multiple Frames Matching for Object Discovery in Video](./papers/000003.Multiple_Frame_Matching_for_Object_Discovery_in_Video.md)
 * [Unsupervised Learning of Video Representations using LSTMs](./papers/000032.Unsupervised_Learning_of_Video_Representations_using_LSTMs.md)
+* [Mobile Video Object Detection with Temporally-Aware Feature Maps](./papers/000053.Mobile_Video_Object_with_Temporally-Aware_Feature_Maps.md)
+* [Towards High Performance Video Object Detection for Mobiles](./papers/000052.Towards_High_Performance_Video_Object_Detection_for_Mobiles.md)
 
 # 3D
 * [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](./papers/000036.PointNet++_Deep_Hierarchical_Feature_Learning_on_Point_Sets_in_a_Metric_Space.md)
