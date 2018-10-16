@@ -70,6 +70,7 @@ Memos for papers, which are related to ML, CV and NLP.
 * [Effective Approaches to Attention-based Neural Machine Translation](./papers/000021.Effective_Approaches_to_Attention-based_Neural_Machine_Translation.md)
 * [Neural Machine Translation by Jointly Learning to Align and Translate](./papers/000025.Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate.md)
 * [Sequence to Sequence Learning with Neural Networks](./papers/000033.Sequence_to_Sequence_Learning_with_Neural_Networks.md)
+* [Attention Is All You Need](./papers/000054.Attention_Is_All_You_Need.md)
 
 
 # ML
