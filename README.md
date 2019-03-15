@@ -22,6 +22,7 @@ Memos for papers, which are related to ML, CV and NLP.
 * [Light-Head R-CNN: In Defense of Two-Stage Object Detector](./papers/000048.Light-Head_R-CNN_In_Defense_of_Two-Stage_Object_Detector.md)
 * [Fully Convolutional Instance-aware Semantic Segmentation](./papers/000049.Fully_Convolutional_Instance-aware_Semantic_Segmentation.md)
 * [Mask R-CNN](./papers/000051.Mask_R-CNN.md)
+* [Fast and accurate object detection in high resolution 4K and 8K video using GPUs](./papers/000056.Fast_and_accurate_object_detection_in_high_resolution_4K_and_8K_video_using_GPUs.md)
 
 ## Semantic Segmentation
 * [Fully Convolutional Networks for Semantic Segmentation](./papers/000013.Fully_Convolutional_Networks_for_Semantic_Segmentation.md)
