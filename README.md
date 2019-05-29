@@ -51,10 +51,17 @@ Memos for papers, which are related to ML, CV and NLP.
 * [SmoothGrad: removing noise by adding noise](./papers/000012.SmoothGrad_removing_noise_by_adding_noise.md)
 
 ## Video
-* [Multiple Frames Matching for Object Discovery in Video](./papers/000003.Multiple_Frame_Matching_for_Object_Discovery_in_Video.md)
-* [Unsupervised Learning of Video Representations using LSTMs](./papers/000032.Unsupervised_Learning_of_Video_Representations_using_LSTMs.md)
+### Tracking
+* [Improving Online Multiple Object tracking with Deep Metric Learning](./papers/000057.Improving_Online_Multiple_Object_tracking_with_Deep_Metric_Learning.md)
+
+### Detection
 * [Mobile Video Object Detection with Temporally-Aware Feature Maps](./papers/000053.Mobile_Video_Object_with_Temporally-Aware_Feature_Maps.md)
 * [Towards High Performance Video Object Detection for Mobiles](./papers/000052.Towards_High_Performance_Video_Object_Detection_for_Mobiles.md)
+
+### Else
+* [Multiple Frames Matching for Object Discovery in Video](./papers/000003.Multiple_Frame_Matching_for_Object_Discovery_in_Video.md)
+* [Unsupervised Learning of Video Representations using LSTMs](./papers/000032.Unsupervised_Learning_of_Video_Representations_using_LSTMs.md)
+
 * [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](./papers/000055.Can_Spatiotemporal_3D_CNNs_Retrace_the_History_of_2D_CNNs_and_ImageNet.md)
 
 # 3D
@@ -86,5 +93,3 @@ Memos for papers, which are related to ML, CV and NLP.
 * [What’s your ML Test Score? A rubric for ML production systems](./papers/000042.Whats_your_ML_Test_Score?_A_rubric_for_ML_production_systems.md)
 * [Multimodal Emoji Prediction](./papers/000045.Multimodal_Emoji_Prediction.md)
 * [Born Again Neural Networks](./papers/000050.Born_Again_Neural_Networks.md)
-
-
