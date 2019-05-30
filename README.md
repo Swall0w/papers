@@ -53,6 +53,7 @@ Memos for papers, which are related to ML, CV and NLP.
 ## Video
 ### Tracking
 * [Improving Online Multiple Object tracking with Deep Metric Learning](./papers/000057.Improving_Online_Multiple_Object_tracking_with_Deep_Metric_Learning.md)
+* [SIMPLE ONLINE AND REALTIME TRACKING](./papers/000058.SIMPLE_ONLINE_AND_REALTIME_TRACKING.md)
 
 ### Detection
 * [Mobile Video Object Detection with Temporally-Aware Feature Maps](./papers/000053.Mobile_Video_Object_with_Temporally-Aware_Feature_Maps.md)
