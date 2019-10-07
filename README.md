@@ -94,3 +94,4 @@ Memos for papers, which are related to ML, CV and NLP.
 * [What’s your ML Test Score? A rubric for ML production systems](./papers/000042.Whats_your_ML_Test_Score?_A_rubric_for_ML_production_systems.md)
 * [Multimodal Emoji Prediction](./papers/000045.Multimodal_Emoji_Prediction.md)
 * [Born Again Neural Networks](./papers/000050.Born_Again_Neural_Networks.md)
+* [Digital Auditor: A Framework for Matching Duplicate Invoices](papers/000059.Digital_Auditor.md)
