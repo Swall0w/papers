@@ -65,6 +65,8 @@ Memos for papers, which are related to ML, CV and NLP.
 
 * [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](./papers/000055.Can_Spatiotemporal_3D_CNNs_Retrace_the_History_of_2D_CNNs_and_ImageNet.md)
 
+* [DeepMark: One-Shot Clothing Detection](papers/000061_DeepMark_One_shot_Clothing_Detection.md)
+
 # 3D
 * [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](./papers/000036.PointNet++_Deep_Hierarchical_Feature_Learning_on_Point_Sets_in_a_Metric_Space.md)
 
