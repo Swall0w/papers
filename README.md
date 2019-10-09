@@ -95,3 +95,4 @@ Memos for papers, which are related to ML, CV and NLP.
 * [Multimodal Emoji Prediction](./papers/000045.Multimodal_Emoji_Prediction.md)
 * [Born Again Neural Networks](./papers/000050.Born_Again_Neural_Networks.md)
 * [Digital Auditor: A Framework for Matching Duplicate Invoices](papers/000059.Digital_Auditor.md)
+* [Pedestrian Detection: A Benchmark](papers/000060_Pedestrian_Detection_benchmark.md)
