@@ -25,6 +25,9 @@ Memos for papers, which are related to ML, CV and NLP.
 * [Fast and accurate object detection in high resolution 4K and 8K video using GPUs](./papers/000056.Fast_and_accurate_object_detection_in_high_resolution_4K_and_8K_video_using_GPUs.md)
 * [Revisiting RCNN: On Awakening the Classification Power of Faster RCNN](papers/000062.Revisiting_RCNN.md)
 
+## Pedestrian detection
+* [Faster R-CNN with Densenet for scale aware pedestrian detection vis-a-vis head negative suppression](papers/000063_Faster_RCNN_with_densenet.md)
+
 ## Semantic Segmentation
 * [Fully Convolutional Networks for Semantic Segmentation](./papers/000013.Fully_Convolutional_Networks_for_Semantic_Segmentation.md)
 * [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](./papers/000016.SegNet_A_Deep_Convolutional_Encoder-Decoder_Architecture_for_Image_Segmentation.md)
